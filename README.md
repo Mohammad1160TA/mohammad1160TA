@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+### The sample solutions repository has been moved to my personal account.  
+
+https://github.com/ohzecodes/sampleSolution
+
+YOu can clone it from here
 
 <!--
 **Mohammad1160TA/mohammad1160TA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
